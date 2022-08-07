@@ -1,0 +1,115 @@
+a {
+    text-decoration: none;
+}
+
+.temp-convert-link {
+    color: #5a6275;
+}
+
+.container {
+    font-family: "Fira Sans Condensed", sans-serif;
+}
+
+.row {
+    max-width: 800px;
+}
+
+.weather-forecast-today {
+    margin: 30px 0;
+    padding: 10px;
+    border: #9ca6df 2px solid;
+    border-radius: 3px;
+}
+
+.weather-forecast-nextdays {
+    margin: 30px 0;
+}
+
+.nextday-forecast {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: #9ca6df 4px solid;
+    border-radius: 3px;
+}
+
+.nextdays-weather {
+    font-size: 20px;
+    text-align: center;
+    color: #5a6275;
+}
+
+.characteristics {
+    margin-top: 67px;
+    margin-left: 10px;
+    font-size: 30px;
+    color: #5869ca;
+    line-height: 20px;
+}
+
+.characteristics-values {
+    color: #5a6275;
+}
+
+.city-search {
+    margin-top: 50px;
+}
+
+.geolocation-btn {
+    line-height: 15px;
+    font-size: 15px;
+}
+
+.submit-btn {
+    width: 100%;
+}
+
+.date {
+    font-size: 20px;
+    text-align: center;
+    color: #5a6275;
+}
+
+.cur-weather {
+    padding: 10px;
+    width: 230px;
+    height: 230px;
+    text-align: center;
+    border: #f8f170 2px solid;
+    border-radius: 100%;
+    background: #fefce2;
+}
+
+.emoji {
+    font-size: 80px;
+}
+
+.cur-temperature {
+    font-size: 40px;
+    color: #596aca;
+}
+
+.cur-time {
+    margin: 10px;
+    text-align: center;
+    color: #727888;
+    font-size: 20px;
+}
+
+.location-and-date {
+    padding-top: 20px;
+    text-align: center;
+    color: #596aca;
+}
+
+.city-name {
+    font-size: 50px;
+}
+
+.country-name {
+    font-size: 40px;
+}
+
+.date-today {
+    margin-top: 20px;
+    font-size: 20px;
+}
