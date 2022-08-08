@@ -15,14 +15,14 @@ a {
 }
 
 .weather-forecast-today {
-    margin: 30px 0;
+    margin: 30px 0 0 0;
     padding: 10px;
     border: #9ca6df 2px solid;
     border-radius: 3px;
 }
 
 .weather-forecast-nextdays {
-    margin: 30px 0;
+    margin: 30px 0 0 0;
 }
 
 .nextday-forecast {
