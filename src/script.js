@@ -140,7 +140,6 @@ function setWeatherIcon(response) {
 }
 
 function setWeather(response) {
-    console.log(response);
     setTemp(response);
     setCity(response);
     setCountry(response);
@@ -165,7 +164,6 @@ function setMinMaxTempToday(response) {
 
 function setForecast(response) {
     setMinMaxTempToday(response);
-    console.log(response);
     let daysArr = [1, 2, 3, 4, 5, 6];
     daysArr.forEach(function (day){
        let tempDivNextDay =  document.querySelector(`#temp-day-${day}`);
